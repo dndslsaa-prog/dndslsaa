@@ -24,12 +24,12 @@ Halo! Saya **Adinda Salsabila**, saat ini sedang menjalani studi independen di b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUBMU&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUBMU&layout=compact&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dndslsaa&show_icons=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndslsaa&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUBMU&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dndslsaa&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
