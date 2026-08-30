@@ -1,21 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adinda Salsabila</h1>
 <h3 align="center">Web Development Enthusiast 🌐</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Web+Developer;Python+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🧑‍💻 Introduction
 
 Halo! Saya **Adinda Salsabila**, saat ini sedang menjalani studi independen di bidang **Web Development**. Saya tertarik membangun aplikasi web dan terus belajar mengembangkan kemampuan saya sebagai developer.
-
-- 🔭 Saat ini sedang menjalani: **Studi Independen Web Development**
-- 🌱 Sedang memperdalam: **Python, Java, HTML, CSS, & JavaScript**
-- 💬 Tanya saya soal: **Python & Web Development**
-- 📫 Cara menghubungi saya: **emailkamu@example.com**
-- ⚡ Fun fact: **Suka belajar hal baru di dunia teknologi**
 
 ---
 
@@ -44,5 +34,28 @@ Halo! Saya **Adinda Salsabila**, saat ini sedang menjalani studi independen di b
 
 ---
 
+### 🌐 Social Media Links
+
 <p align="left">
-  <a
+  <a href="https://linkedin.com/in/adindasalsabila" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/adindasalsabila" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Facts
+
+- Sedang menjalani studi independen di bidang Web Development
+- Menyukai tantangan dalam belajar teknologi baru
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/dev.gif" width="400"/>
+</p>
+
+<p align="center">⭐️ Terima kasih sudah mampir ke profil saya!</p>
